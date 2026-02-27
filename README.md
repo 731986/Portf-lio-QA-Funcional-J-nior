@@ -1,7 +1,4 @@
-# Portifólio-QA-Funcional-Junior
-Validação e Qualidade em Foco
-
-# 🧪 Portfólio QA Funcional Júnior
+#  Portfólio QA Funcional Júnior
 
 **Validação e Qualidade em Foco**
 
@@ -9,22 +6,22 @@ Um portfólio profissional que demonstra competências em **Testes Funcionais**,
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Este portfólio apresenta um **caso de estudo completo** de validação de um sistema web de cadastro e autenticação. O projeto foi desenvolvido com abordagem prática, documentando todos os passos desde a análise de escopo até a identificação e análise de bugs.
 
-### 🎯 Objetivo
+### Objetivo
 
 Demonstrar habilidades em:
-- ✅ **Testes Funcionais**: Validação de funcionalidades e fluxos de usuário
-- 🔒 **Testes de Segurança**: Validação de autenticação e proteção de dados
-- 📊 **Análise de Risco**: Identificação e priorização de bugs por impacto
-- 📝 **Documentação**: Casos de teste estruturados e bem documentados
-- 🎯 **Abordagem Orientada a Risco**: Foco em validações críticas para o negócio
+-  **Testes Funcionais**: Validação de funcionalidades e fluxos de usuário
+-  **Testes de Segurança**: Validação de autenticação e proteção de dados
+-  **Análise de Risco**: Identificação e priorização de bugs por impacto
+-  **Documentação**: Casos de teste estruturados e bem documentados
+-  **Abordagem Orientada a Risco**: Foco em validações críticas para o negócio
 
 ---
 
-## 🏗️ Estrutura do Projeto
+##  Estrutura do Projeto
 
 ### Escopo Validado
 
@@ -39,15 +36,15 @@ O projeto abrange a validação de **4 áreas principais**:
 
 | Regra | Status | Descrição |
 |-------|--------|-----------|
-| **RN01** | ✅ Validado | Campos obrigatórios devem ser preenchidos |
-| **RN02** | ✅ Validado | Email deve estar em formato válido |
-| **RN03** | ✅ Validado | Senha deve ter mínimo 8 caracteres |
-| **RN04** | ✅ Validado | Conta é bloqueada após 3 tentativas inválidas |
-| **RN05** | ✅ Validado | Usuário autenticado pode atualizar seus dados |
+| **RN01** |  Validado | Campos obrigatórios devem ser preenchidos |
+| **RN02** |  Validado | Email deve estar em formato válido |
+| **RN03** |  Validado | Senha deve ter mínimo 8 caracteres |
+| **RN04** |  Validado | Conta é bloqueada após 3 tentativas inválidas |
+| **RN05** |  Validado | Usuário autenticado pode atualizar seus dados |
 
 ---
 
-## 🧪 Casos de Teste
+##  Casos de Teste
 
 ### Resumo Executivo
 
@@ -61,14 +58,14 @@ O projeto abrange a validação de **4 áreas principais**:
 #### **CT01 - Validação de Campos Obrigatórios**
 - **Tipo**: Funcional
 - **Prioridade**: Alta
-- **Status**: ✅ Validado
+- **Status**:  Validado
 - **Descrição**: Verificar se o sistema exibe mensagens de erro quando campos obrigatórios não são preenchidos
 - **Resultado**: Conforme esperado - Validações funcionando corretamente
 
 #### **CT02 - Teste de Autenticação**
 - **Tipo**: Segurança
 - **Prioridade**: Crítica
-- **Status**: ✅ Validado
+- **Status**:  Validado
 - **Descrição**: Validar o processo de login com credenciais válidas
 - **Resultado**: Login realizado com sucesso - Autenticação funcionando conforme especificado
 - **Evidência**: Captura de tela com mensagem de sucesso
@@ -76,7 +73,7 @@ O projeto abrange a validação de **4 áreas principais**:
 #### **CT03 - Teste de Bloqueio por Tentativas Inválidas**
 - **Tipo**: Segurança
 - **Prioridade**: Alta
-- **Status**: ✅ Validado
+- **Status**:  Validado
 - **Descrição**: Verificar se a conta é bloqueada após 3 tentativas de login inválidas
 - **Resultado**: Conta bloqueada conforme esperado - Sistema bloqueou a conta após 3 tentativas
 - **Evidência**: Captura de tela com mensagem de bloqueio
@@ -84,18 +81,18 @@ O projeto abrange a validação de **4 áreas principais**:
 #### **CT04 - Teste de Atualização de Dados do Usuário**
 - **Tipo**: Funcional
 - **Prioridade**: Média
-- **Status**: ✅ Validado
+- **Status**:  Validado
 - **Descrição**: Validar se o usuário consegue atualizar seus dados pessoais corretamente
 - **Resultado**: Dados atualizados com sucesso - Alterações foram persistidas no banco de dados
 - **Evidência**: Captura de tela com confirmação de atualização
 
 ---
 
-## 🐛 Bugs Identificados
+##  Bugs Identificados
 
 ### Bug #001 - Validação Incompleta de Email
 
-**Severidade**: 🔴 Alta  
+**Severidade**:  Alta  
 **Impacto no Negócio**: Crítico
 
 **Descrição**:
@@ -120,23 +117,23 @@ O sistema aceita emails inválidos que não seguem o padrão RFC 5322, permitind
 
 ---
 
-## 📊 Tipos de Testes Executados
+##   Tipos de Testes Executados
 
-### 🔍 Teste Funcional
+###  Teste Funcional
 Validação de funcionalidades e fluxos de usuário conforme especificado
 
-### 🔒 Teste de Segurança
+###  Teste de Segurança
 Validação de autenticação, autorização e proteção de dados
 
-### ⚙️ Teste de Integração
+###  Teste de Integração
 Validação de integração entre componentes do sistema
 
-### 📱 Teste de Usabilidade
+###  Teste de Usabilidade
 Validação da experiência do usuário e interface
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ### Frontend
 - **React 19** - Framework JavaScript
@@ -156,7 +153,7 @@ Validação da experiência do usuário e interface
 
 ---
 
-## 🚀 Como Acessar o Portfólio
+##  Como Acessar o Portfólio
 
 ### Online
 Acesse o portfólio em tempo real:
@@ -179,7 +176,7 @@ pnpm dev
 
 ---
 
-## 📄 Estrutura de Arquivos
+##  Estrutura de Arquivos
 
 ```
 qa-portfolio-denis/
@@ -202,38 +199,38 @@ qa-portfolio-denis/
 
 ---
 
-## 📋 Seções do Portfólio
+##  Seções do Portfólio
 
-### 1️⃣ Página Inicial
+### 1️ Página Inicial
 - Hero section com apresentação do projeto
 - Visão geral dos objetivos
 - Call-to-action para explorar casos de teste
 - Informações de contato
 
-### 2️⃣ Página de Casos de Teste
+### 2️ Página de Casos de Teste
 - Listagem completa de todos os 4 casos de teste
 - Detalhes de cada teste: pré-condições, passos, resultados
 - Capturas de tela como evidências
 - Resumo executivo com taxa de sucesso
 
-### 3️⃣ Seção de Bugs
+### 3️ Seção de Bugs
 - Documentação de bugs identificados
 - Análise de severidade e impacto
 - Recomendações de correção
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Denis Hamilton Borges Guimarães Camara**
 
-- 📧 Email: [deniscamara.informatica@gmail.com](mailto:deniscamara.informatica@gmail.com)
-- 💼 LinkedIn: [Denis Hamilton](https://www.linkedin.com/in/denis-hamilton-borges-guimarães-camara-2882771a9/)
-- 💻 GitHub: [@731986](https://github.com/731986)
+-  Email: [deniscamara.informatica@gmail.com](mailto:deniscamara.informatica@gmail.com)
+-  LinkedIn: [Denis Hamilton](https://www.linkedin.com/in/denis-hamilton-borges-guimarães-camara-2882771a9/)
+-  GitHub: [@731986](https://github.com/731986)
 
 ---
 
-## 📞 Contato & Redes
+##  Contato & Redes
 
 Interessado em colaborar ou tem dúvidas sobre o portfólio?
 
@@ -243,13 +240,13 @@ Interessado em colaborar ou tem dúvidas sobre o portfólio?
 
 ---
 
-## 📜 Licença
+##  Licença
 
 Este projeto é de código aberto e está disponível sob a licença MIT. Sinta-se livre para usar, modificar e distribuir conforme necessário.
 
 ---
 
-## 🎯 Próximas Melhorias
+##  Próximas Melhorias
 
 - [ ] Adicionar seção de habilidades técnicas com ferramentas de teste
 - [ ] Implementar filtros interativos na página de casos de teste
@@ -260,7 +257,7 @@ Este projeto é de código aberto e está disponível sob a licença MIT. Sinta-
 
 ---
 
-## 📈 Estatísticas do Projeto
+##  Estatísticas do Projeto
 
 | Métrica | Valor |
 |---------|-------|
@@ -272,7 +269,7 @@ Este projeto é de código aberto e está disponível sob a licença MIT. Sinta-
 
 ---
 
-## 🙏 Agradecimentos
+##  Agradecimentos
 
 Obrigado por visitar meu portfólio! Este projeto representa meu compromisso com **qualidade**, **documentação clara** e **abordagem profissional** em testes de software.
 
